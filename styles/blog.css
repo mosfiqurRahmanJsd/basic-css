@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+
+.header {
+    height: 200px;
+    background-image: url('./../images/Leonardo_DiCaprio_2014.jpg');
+    background-color: lightgray;
+    background-size: 5%;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-blend-mode: multiply;
+
+}
+
+
+
+h3 {
+    text-decoration: underline wavy greenyellow;
+}
+
+.blog {
+    background-color: lightsalmon;
+    border: 5px solid red;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 40px;
+    box-shadow: 7px 7px 10px gray;
+}
